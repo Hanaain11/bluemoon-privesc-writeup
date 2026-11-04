@@ -14,6 +14,6 @@ Connectivity was confirmed with `ping 192.168.56.104`, which returned 0% packet 
 ## Reconnaissance
 A full port scan was run against the target using Nmap.
 
-![Nmap scan results](screenshots/01-nmap-scan.png)
-![Initial access via phpbash webshell](screenshots/02-initial-access.png)
-![Root access confirmed](screenshots/03-root-access.png)
+![Nmap scan results](screenshots/nmap-scan)
+![Initial access via phpbash webshell](screenshots/initial-access)
+![Root access confirmed](screenshots/root-access)
